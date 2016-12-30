@@ -1,0 +1,28 @@
+{
+  "name": "postcss-pseudo-element-cases",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to format pseudo-element casing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timelsass/postcss-pseudo-element-cases.git"
+  },
+  "keywords": [
+    "postcss",
+    "pseudo-element",
+    "format",
+    "css"
+  ],
+  "author": "Tim Elsass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timelsass/postcss-pseudo-element-cases/issues"
+  },
+  "homepage": "https://github.com/timelsass/postcss-pseudo-element-cases#readme",
+  "dependencies": {
+    "postcss": "^5.2.8"
+  }
+}
