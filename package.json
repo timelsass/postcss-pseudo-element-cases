@@ -13,6 +13,9 @@
   "keywords": [
     "postcss",
     "pseudo-element",
+    "uppercase",
+    "lowercase",
+    "casing",
     "format",
     "css"
   ],
