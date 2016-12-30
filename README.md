@@ -1,6 +1,6 @@
 # PostCSS Pseudo-Element Casing
 
-[PostCSS](https://github.com/postcss/postcss) plugin to format pseudo elements to uppercase or lowercase.
+[PostCSS](https://github.com/postcss/postcss) plugin to format pseudo-elements to uppercase or lowercase.
 
 Turn `.fancy-style::BEFORE {` into `.fancy-style::before {` and vice versa.
 
